@@ -1,4 +1,4 @@
-**Vanilla MP** ![](assets/vmp.png)
+![](assets/vmp.png) **Vanilla MP**
 
 ![](https://img.shields.io/badge/Fork-Nukkit-blue) ![](https://img.shields.io/badge/Release-1.0-green) ![](https://img.shields.io/badge/issues-500-yellow)
 
