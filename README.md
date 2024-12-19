@@ -1,5 +1,5 @@
 # Vanilla MP
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 **Vanilla MP** - это набор инструментов и конфигураций, которые помогут вам настроить и запустить свой собственный сервер Minecraft версии 1.1.5. Это ядро было создано для того, чтобы упростить процесс настройки сервера и предоставить вам все необходимые инструменты для настройки и администрирования вашего сервера.
 
