@@ -1,4 +1,4 @@
-# Vanilla MP
+# Vanilla MP ![](assets/vmp)
 ![](https://img.shields.io/badge/Fork-Nukkit-blue) ![](https://img.shields.io/badge/Release-1.0-green) ![](https://img.shields.io/badge/issues-500-yellow)
 
 **Vanilla MP** - это набор инструментов и конфигураций, которые помогут вам настроить и запустить свой собственный сервер Minecraft версии 1.1.5. Это ядро было создано для того, чтобы упростить процесс настройки сервера и предоставить вам все необходимые инструменты для настройки и администрирования вашего сервера.
